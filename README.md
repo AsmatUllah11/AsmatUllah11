@@ -1,215 +1,189 @@
-<div align="center">
+# 👋 Hi, I'm Asmat Ullah
 
-👋 Hi, I'm Asmat Ullah
+### 💻 Computer Science Student | Web Developer | AI Enthusiast
 
-💻 Computer Science Student | Web Developer | AI & Tech Enthusiast
+I'm a **Computer Science student** focused on learning software development by building practical projects and solving real-world problems.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat" alt="GitHub Followers" />
-</p>
+Currently, my main focus is **Web Development, React, Full-Stack Development, Databases, and AI-powered applications**.
 
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="left">
+  <a href="https://github.com/AsmatUllah11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-</div>
+---
 
-🚀 About Me
+## 🚀 About Me
 
-I'm a Computer Science student focused on building practical software and continuously improving my development skills.
+* 🎓 BS Computer Science Student
+* 💻 Learning and building with modern web technologies
+* ⚛️ Working with **React and JavaScript**
+* 🌐 Developing frontend and moving toward **Full-Stack Development**
+* 🗄️ Learning **SQL, databases, backend development, and APIs**
+* 🤖 Exploring **Artificial Intelligence and AI-powered applications**
+* ⚙️ Interested in **AI automation and AI agents**
+* 📱 Exploring application development
+* 🛠️ Building practical projects to improve my development skills
+* 📚 Continuously improving my programming and software engineering fundamentals
 
-🎓 Currently studying BS Computer Science
+### 🎯 My Goal
 
-🌐 Interested in Web Development & Full-Stack Development
+To become a professional software developer capable of building **modern, scalable, user-friendly, and intelligent applications**.
 
-📱 Exploring App Development
+---
 
-🤖 Learning and experimenting with Artificial Intelligence & AI-powered applications
+## 🧰 Technologies I'm Learning
 
-⚛️ Working with React and modern frontend technologies
+### 🌐 Web Development
 
-🗄️ Learning SQL, databases, backend development, and APIs
+`HTML` · `CSS` · `JavaScript` · `React` · `Bootstrap` · `Tailwind CSS`
 
-🧠 Interested in AI automation, AI content creation, and intelligent software
+### ⚙️ Programming & Development
 
-🛠️ I enjoy turning ideas into useful, real-world projects
+`C++` · `Python` · `JavaScript` · `Dart`
 
-📚 Currently improving my programming, software development, and professional GitHub skills
+### 🗄️ Database
 
-My goal: Become a professional software developer who can build modern, scalable, user-friendly, and AI-powered applications.
+`SQL` · `MySQL` · `MongoDB` · `DBMS`
 
-🧰 Tech Stack
+### 📱 App Development
 
-🌐 Web Development
+`Dart` · `Flutter`
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Web Development Skills"/>
-</p>
+### 🤖 AI & Automation
 
-⚙️ Programming & Backend
+`Artificial Intelligence` · `AI Applications` · `AI Agents` · `AI Automation`
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,nodejs,express,mongodb,mysql" alt="Programming and Backend Skills"/>
-</p>
+### 🛠️ Tools
 
-📱 App Development
+`Git` · `GitHub` · `VS Code` · `Figma` · `Postman`
 
-<p>
-<img src="https://skillicons.dev/icons?i=dart,flutter" alt="App Development Skills"/>
-</p>
+---
 
-🛠️ Tools
+## 💻 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development Tools"/>
-</p>
+Here are some of the projects I have built or practiced while developing my skills:
 
-🤖 AI & Technology Interests
+| Project                       | Technologies          |
+| ----------------------------- | --------------------- |
+| 🎓 Student Management System  | React, JavaScript     |
+| 🧮 Calculator                 | HTML, CSS, JavaScript |
+| 🎵 Music Player               | HTML, CSS, JavaScript |
+| 🎬 YouTube Clone              | HTML, CSS             |
+| 🎥 Netflix Clone              | HTML, CSS             |
+| 💼 Portfolio Website          | React                 |
+| 🏨 Hotel Management System    | Software Development  |
+| 🍽️ Restaurant Billing System | Software Development  |
+| 📚 Database Projects          | SQL, DBMS             |
+| 🤖 AI Projects                | AI + Web Development  |
 
-I'm especially interested in combining software development with AI.
+> 🚧 More projects are currently in development.
 
-AI + Web Development
-AI + App Development
-AI + Automation
-AI + Content Creation
-AI-powered Tools
-AI Agents
-Intelligent Business Applications
+---
 
-I want to use AI not only as a tool for coding, but also to design, automate, build, test, and improve real-world software products.
+## 🧠 What I'm Currently Learning
 
-📂 Projects & Practice
-
-Some areas I'm actively building and practicing:
-
-Project / Area
-
-Technologies
-
-🎓 Student Management System
-
-React, JavaScript
-
-🧮 Calculator
-
-HTML, CSS, JavaScript
-
-🎵 Music Player
-
-HTML, CSS, JavaScript
-
-🎬 YouTube Clone
-
-HTML, CSS
-
-🎥 Netflix Clone
-
-HTML, CSS
-
-💼 Portfolio Website
-
+```text
+Web Development
+      ↓
+JavaScript
+      ↓
 React
+      ↓
+Backend & APIs
+      ↓
+Databases
+      ↓
+Full-Stack Development
+      ↓
+AI Integration
+      ↓
+AI Agents & Automation
+```
 
-🏨 Hotel Management System
+My current priority is not simply learning more technologies.
 
-Software Development
+**My focus is learning deeply, building projects, and becoming better at solving real problems.**
 
-🍽️ Restaurant Billing System
+---
 
-Software Development
+## 📈 My Development Journey
 
+### 01 — Fundamentals
+
+Learning programming fundamentals, problem solving, HTML, CSS and JavaScript.
+
+### 02 — Frontend Development
+
+Building responsive interfaces and learning React and modern frontend development.
+
+### 03 — Full-Stack Development
+
+Learning backend development, APIs, authentication and database integration.
+
+### 04 — AI Development
+
+Learning how AI can be integrated into real-world software applications.
+
+### 05 — AI Automation & Agents
+
+Exploring intelligent automation and AI agents that can perform useful tasks and workflows.
+
+---
+
+## 🎯 Current Focus
+
+```text
+⚛️ React & JavaScript
+🌐 Full-Stack Web Development
+🗄️ SQL & Databases
+🔌 APIs & Backend
 🤖 AI-Powered Applications
+⚙️ AI Automation
+🧠 AI Agents
+🚀 Real-World Projects
+```
 
-AI + Web
+---
 
-📚 Database Projects
+## 📌 2026 Goals
 
-SQL, DBMS
+* ✅ Improve JavaScript fundamentals
+* 🔄 Become stronger with React
+* 🔄 Build full-stack applications
+* 🔄 Improve backend and API development
+* 🔄 Strengthen SQL and database knowledge
+* 🔄 Build practical AI-powered applications
+* 🔄 Learn AI agents and automation
+* 🔄 Build a strong developer portfolio
+* 🔄 Improve GitHub and project documentation
+* 🔄 Contribute to open-source projects
 
-More projects are being added as I continue learning and building.
+---
 
-📈 GitHub Stats
+## 💡 My Development Philosophy
 
-<div align="center">
+> **Learn → Build → Break → Debug → Improve → Repeat**
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+I believe the best way to become a better developer is not just to watch tutorials, but to **build projects, make mistakes, debug problems, understand the fundamentals, and keep improving.**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
+---
 
-</div>
+## 🤝 Let's Connect
 
-🔥 Contribution Streak
+I'm interested in connecting with people who are passionate about:
 
-<div align="center">
+* 💻 Software Development
+* 🌐 Web & Full-Stack Development
+* 🤖 Artificial Intelligence
+* ⚙️ AI Automation
+* 🚀 Technology & Startups
+* 🔧 Open Source
+* 📚 Learning & Collaboration
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-🎯 2026 Learning Goals
-
-Become strong in JavaScript & React
-
-Build multiple full-stack applications
-
-Improve backend & API development
-
-Strengthen SQL & database skills
-
-Build practical AI-powered applications
-
-Learn more about AI agents and automation
-
-Build a professional developer portfolio
-
-Contribute to open-source projects
-
-Improve GitHub profile and project documentation
-
-Prepare for professional software development
-
-💡 My Development Philosophy
-
-Learn → Build → Break → Debug → Improve → Repeat
-
-I believe the best way to learn software development is to build real projects, solve problems, understand the fundamentals, and continuously improve.
-
-🤝 Let's Connect
-
-I'm always interested in:
-
-💻 Software Development
-
-🌐 Web & Full-Stack Development
-
-🤖 Artificial Intelligence
-
-📱 App Development
-
-🚀 Startups & Technology
-
-🔧 Open Source
-
-📚 Learning & Collaboration
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-Keep Learning • Keep Building • Keep Improving 🚀
-
-</div>
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+  <br><br>
+  <i>Keep Learning • Keep Building • Keep Improving</i>
+</p>
